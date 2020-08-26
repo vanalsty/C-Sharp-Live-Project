@@ -1,6 +1,9 @@
 # C-Sharp-Live-Project
 #### For two weeks at The Tech Academy I worked with my peers in a team on a large-scale ASP.NET MVC web application. The application is a website for a theatre company, where their data can be managed, tickets purchased, productions viewed, archives searched, and administrator views for CRUD functionality. Working on a legacy codebase was a great learning oppertunity for fixing bugs, cleaning up code, and adding requested features. I saw how a good developer works with what they have to make a quality product. Everyone on the team had a chance to work on front end and back end stories. Over the two week sprint I utilized my skills in version control and project management using Azure DevOps.  Below are descriptions of the stories I worked on.
 
+### What I learned
+It was an invaluable experience being able to work with a nearly completed pre existing codebase and keeping the team coding practices and styles in mind when working on my stories. Working with ASP .Net MVC, Entity Framework, Razor Syntax, and Bootstrap all gave me valuable skills for the future in not only with utilizing these tools but how to better educate myself on and research for future tools as well.  I also was able to learn a lot working with a team in an agile setting.  During the two weeks we did 20-30 minute daily standups, and a weekly retrospective. It was very helpful being able to hear what everyone else was working on, interesting things they had found, roadblocks they were coming accross, their best practices, and discussing ways we could all improve in the next week.  Overall this was a great learning experience.
+
 ### **My first story** 
 This was simple in order to familiarize myself with the project and get my feet wet.  I had to add a link to the Admin Dropdown to the Manage Subscribers Page. 
 
