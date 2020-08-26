@@ -29,7 +29,7 @@ I was tasked with reorganizing fields on a page and making some field read-only 
 
 Here is the code for that. ![](/partcreate1.jpg)  ![](/partcreate2.jpg) 
 
-Here's what it looked like.  We wanted the Character field to be able to be typed in if "Actor" is selected in the Type field. ![](/partcreate4.jpg) If anything other than actor was selected, then the Character field would autopopulate with the Person's name.
+Here's what it looked like.  We wanted the Character field to be able to be typed in if "Actor" is selected in the Type field. ![](/partcreate4.jpg) If anything other than actor was selected, then the Character field would autopopulate with the Person's name and be read-only.
 
 ![](/partcreate5.jpg)
 
